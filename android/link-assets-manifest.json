@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/robotomono_bolditalic.ttf",
+      "sha1": "6be5bc60f9bfb14a8f81d56587d7c4eb266f2a54"
+    },
+    {
+      "path": "assets/fonts/robotomono_regular.ttf",
+      "sha1": "10459dd11ec5adb59f3775b062dc06c4abe70a3a"
+    },
+    {
+      "path": "assets/fonts/robotomono_semibold.ttf",
+      "sha1": "d2edc0348f2ee3d5031838a96d65201ac55d2587"
+    }
+  ]
+}
