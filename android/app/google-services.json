@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "457897066236",
+    "project_id": "picture-diary-25542",
+    "storage_bucket": "picture-diary-25542.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457897066236:android:525c01e3bb102ea3abe179",
+        "android_client_info": {
+          "package_name": "com.pictoraldiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457897066236-3k6mpeaqqnn84mvadm5kkju83deq4djj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pictoraldiary",
+            "certificate_hash": "b030773482fe5aa97efba3f2c8323f19386c8ca5"
+          }
+        },
+        {
+          "client_id": "457897066236-q2smlrj6sfdacog2lu0us0bv6bj1bl7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkJk5FciMgqR7PxaMmOE7BXj8NtqEbIWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457897066236-q2smlrj6sfdacog2lu0us0bv6bj1bl7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
